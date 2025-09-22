@@ -1,1 +1,10 @@
-genai demo
+# GenAI Sales Chatbot
+
+A conversational sales assistant using RAG (retrieval-augmented generation) and LLMs.
+
+Features:
+- Conversational interface with memory
+- Embedding-based retrieval (FAISS)
+- Strategy pattern for query handling
+- Powered by FLAN-T5 small model
+- Fully Python-based, can run on CPU (Databricks free edition)
