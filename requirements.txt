@@ -1,0 +1,6 @@
+pandas
+langchain
+sentence-transformers
+transformers
+torch
+faiss-gpu
